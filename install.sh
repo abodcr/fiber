@@ -10,7 +10,7 @@ sudo apt install -y python3 python3-pip python3-venv git
 
 echo "Cloning repository..."
 sudo rm -rf $APP_DIR
-sudo git clone https://github.com/USERNAME/fiber-monitor.git $APP_DIR
+sudo git clone https://github.com/abodcr/fiber.git $APP_DIR
 
 cd $APP_DIR
 
